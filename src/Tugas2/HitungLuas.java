@@ -1,5 +1,4 @@
 package Tugas2;
-
 import java.util.*;
 class Persegi {
     void LuasPersegi (int sisi){
